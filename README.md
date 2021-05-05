@@ -1,4 +1,4 @@
-#Jake Gladdis
+#JAKE GLADDIS
 <hr>
 #Project 1<br>
   * https://github.com/phantump/File-Organizer <br>
