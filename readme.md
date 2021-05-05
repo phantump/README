@@ -1,6 +1,6 @@
 # Jake Gladdis
 <hr>
 # Project 1
-  * https://github.com/phantump/File-Organizer
-  * Descripton: A File organizer for Python
+  <ul>https://github.com/phantump/File-Organizer
+   <ul>Descripton: A File organizer for Python
 <hr>
