@@ -17,8 +17,8 @@
    * Description: A program that takes a user input and outputs various stats of the number given.
   <hr>
 # <b>Fall 2021</b><br>
- # Software Engineering
-  * My group and I did mostly cosmetic work on the Kean CSHub website
+ # Software Engineering<br>
+  * My group and I did mostly cosmetic work on the Kean CSHub website<br>
   * <a href = "https://www.keancshub.com/home">Click Here</a><br>
   <hr>
 # <b>Spring 2022</b><br>
