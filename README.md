@@ -1,4 +1,5 @@
 #JAKE GLADDIS
+ * Currently a student set to graduate May of 2022
 <hr>
 #Project 1<br>
   * https://github.com/phantump/File-Organizer <br>
