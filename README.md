@@ -20,5 +20,8 @@
  # Software Engineering<br>
   * My group and I did mostly cosmetic work on the Kean CSHub website<br>
   * <a href = "https://www.keancshub.com/home">Click Here</a><br>
+ # Information Systems Programming<br>
+  * https://github.com/phantump/FurnitureStore
+  * Description: This Project involves MySQL, HTML, and PHP in order to make a website that allows users to buy and sell furniture.
   <hr>
 # <b>Spring 2022</b><br>
